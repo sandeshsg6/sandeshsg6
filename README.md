@@ -1,5 +1,4 @@
-## 🙏 Namaste <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
-
+### 🙏 Namaste
 
 ### Available 👇
 <p>
@@ -12,7 +11,6 @@
    <a href="https://telegram.dog/dronefill">
     <img align="left" alt="Sandesh Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
-  
 </p>
 </br>
 </br>
@@ -43,6 +41,5 @@ religion = "🇮🇳"
 </br>
 
 ### Stats ⚡️
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=sandeshsg6" height="150" alt="stats graph"  />
-</div>
+
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=sandeshsg6&tc=333&ic=333)
