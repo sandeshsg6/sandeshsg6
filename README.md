@@ -5,10 +5,7 @@
 <p>
   <a href="https://www.linkedin.com/in/sandeshsg6/">
     <img align="left" alt="Sandesh LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-     <a href="https://www.instagram.com/__sand______/">
-    <img align="left" alt="Sandesh Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
-  </a>
+    
    <a href="https://telegram.dog/dronefill">
     <img align="left" alt="Sandesh Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
