@@ -19,7 +19,6 @@
 ```python
 name = "Sandesh"
 who_i_am = ['Developer','Coder','Engineer','KVian','Noobie']
-age = 22
 religion = "🇮🇳"
 ```
 
