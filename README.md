@@ -18,7 +18,7 @@
 ### About 🙋🏻‍♂️
 ```python
 name = "Sandesh"
-who_i_am = ['Developer','Coder','Engineer','KVian','Noobie']
+who_i_am = ['Developer','Coder','Engineer','KVian']
 religion = "🇮🇳"
 ```
 
