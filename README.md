@@ -25,14 +25,14 @@ religion = "🇮🇳"
 ##
 ### Skills 👨‍💻
 
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<img align="left" alt="Dart" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dart.svg" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="Android" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
-<img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
-<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
-<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) | 
+![Dart](https://img.shields.io/badge/Dart%20-%20black?logo=dart) |
+![MySQL](https://img.shields.io/badge/MySQL%20-%20black?logo=mysql) |
+![C#](https://img.shields.io/badge/C%23%20-%20black?logo=csharp) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) |
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) | 
+![Next](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) |
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss)
 </br>
 </br>
 
