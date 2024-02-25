@@ -1,6 +1,4 @@
 ## Namaste 🙏🏻
-
-
 ### Available 👇
 <p>
   <a href="https://www.linkedin.com/in/sandeshsg6/">
