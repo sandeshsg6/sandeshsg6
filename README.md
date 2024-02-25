@@ -13,7 +13,6 @@
 </br>
 </br>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sandeshsg6/&title=Profile%20Views)
 ##   
 ### About 🙋🏻‍♂️
 ```python
@@ -36,7 +35,3 @@ religion = "🇮🇳"
 </br>
 </br>
 
-##
-### Stats ⚡️
-
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=sandeshsg6&tc=333&ic=333)
