@@ -6,7 +6,7 @@
   
 [Tea Image]: # 
 <img src="https://github.com/sandeshsg6/sandeshsg6/assets/76807724/8750a0c6-8c89-4cfd-b4f0-5b511386737c" alt="Tea Image" height="300" width="300">
-<p>the only thing that can fix me any time is chai</p>
+<p>the only thing that can fix me is chai</p>
 
 <details>
 <summary>Open profile</summary>
@@ -23,9 +23,7 @@
 
 <details>
 <summary>About me</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
+  
 <div align="left">
 
 ```js
@@ -42,7 +40,7 @@
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
  * @throws {Punch} To any and all bugs.
- * @returns {Object} Austinae.
+ * @returns {Object} null.
  */
 ```
 
@@ -55,32 +53,17 @@
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
-      <kbd>Programming Languages</kbd>
+      <kbd>Back-end -Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" alt="python" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" alt="c++" title="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-      <img width="30px" alt="java" title="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-      <img width="30px" alt="js" title="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    </kbd>
-    <kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
-      <img width="30px" alt="RoR" title="RoR" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+      <img width="30px" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+      <img width="30px" alt="javascript" title="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img width="30px" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img width="30px" alt="expressjs" title="expressjs" src="https://cdn.simpleicons.org/express/white" />
-      <img width="30px" alt="flask" title="flask" src="https://cdn.simpleicons.org/flask/white" />
-    </kbd>
-     <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-      <img width="30px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="30px" alt="kotlin" title="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+      <img width="30px" alt="python" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img width="30px" alt="c++" title="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
     </kbd>
     <kbd>
-      <kbd>Front-end</kbd>
+      <kbd>Front-end-Programming Languages</kbd>
       <br>
       <br>
       <img width="30px" alt="html5" title="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -89,14 +72,17 @@
       <img width="30px" alt="react" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img width="30px" alt="jquery" title="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
     </kbd>
+     <kbd>
+      <kbd>Mobile</kbd>
+      <br>
+      <br>
+      <img width="30px" alt="flutter" title="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" alt="mysql" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-      <img width="30px" alt="postgresql" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img width="30px" alt="mongodb" title="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-      <img width="30px" alt="redis" title="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+      <img width="30px" alt="mysql" title="mysql" src="https://camo.githubusercontent.com/0c6732b7d21907a793e02e157548954f2ce6202d43f85d03f633c80f288cb82c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d7973716c2e737667" />
     </kbd>
     <br>
     <br>
@@ -113,7 +99,6 @@
       <kbd>VCS & Devops</kbd>
       <br>
       <br>
-      <img width="30px" alt="aws" title="aws" src="https://cdn.simpleicons.org/amazonaws/white" />
       <img width="30px" alt="heroku" title="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
       <img width="30px" alt="git" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
       <img width="30px" alt="docker" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
@@ -128,15 +113,14 @@
       <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="30px" alt="vim" title="vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
       <img width="30px" alt="vscode" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" alt="sublime" title="sublime" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
+      <img width="30px" alt="vscode" title="visual studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
       <img width="30px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       <img width="30px" alt="pycharm" title="pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img width="30px" alt="rubymine" title="rubymine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" />
-      <img width="30px" alt="intellij" title="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
       <img width="30px" alt="android studio" title="android studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
       <img width="30px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+      <img width="30px" alt="citrix" title="citrix" src="https://camo.githubusercontent.com/ac59f691467ea2736d112a250384ad35201b5f6c754356d5a7a5036298427c4d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6369747269782e737667" />
+      
   </kbd>
   </p>
 </div>
